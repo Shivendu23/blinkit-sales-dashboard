@@ -96,7 +96,7 @@ The dashboard includes the following visualizations:
 * Total Sales by Item Type (Column Chart): This chart shows the absolute sales value for each item type, complementing the percentage chart.
 * Average Sales per Item Type (Line Chart): This chart displays the average sales per item type, providing insights into pricing and profitability.
 * Distinct Item Count by Type (Horizontal Bar Chart): This chart displays the number of unique items within each item type.
-* Slicers: Slicers for `Item_Fat_Content`, `Item_Type`, `Outlet_Identifier`, `Outlet_Size`, `Outlet_Type`, and `Outlet_Location_Type` allow users to filter the data and analyze specific subsets.
+* Slicers: Slicers for`Outlet_Location_Type` allow users to filter the data and analyze specific subsets.
 * Detailed Table: A table at the bottom of the dashboard provides a detailed view of the data, including all the calculated measures.
 
 ## Key Insights
